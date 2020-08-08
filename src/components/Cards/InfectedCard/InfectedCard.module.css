@@ -1,0 +1,10 @@
+.infectedCard{
+    
+    justify-content: center;
+    border: 2px solid saddlebrown;
+    height: 237px;
+    width: 21%;
+    border-top: 15px solid red;
+    text-align: center;
+
+}

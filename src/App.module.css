@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(250, 250, 250, 0.89);
+}
+.container{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column
+}
+
+.covidImagee{
+width: 30%;
+height: 80px;
+}
